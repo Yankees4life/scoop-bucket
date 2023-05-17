@@ -9,7 +9,6 @@
             "hash": "6e5e9bbfb5989bc3ac5524559517294ee9d7bd7c150de275c40a5e7aac8bf8fe"
         }
     },
-    "extract_dir": "autobrr",
     "bin": [
         "autobrr.exe",
         "autobrrctl.exe",
